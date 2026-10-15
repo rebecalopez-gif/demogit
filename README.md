@@ -4,3 +4,8 @@ cfesdw
 lalala
 
 ultimaa linea modificada 
+reglas grupo:
+hola
+adios
+clase
+jeje
